@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: lightgrey;
+}
+
+img {
+    max-width: 100%;
+}
+
+div {
+    margin: 10px;
+    border: solid thin #5890f7;
+    border-radius: 4px;
+    background-color: white;
+}
+.number-box {
+    display: flex;
+    flex-wrap: wrap;
+}
